@@ -5,6 +5,5 @@ import (
 )
 
 func main() {
-	// sensors.Temperature()
-	sensors.Cpu()
+	sensors.Temperature()
 }
